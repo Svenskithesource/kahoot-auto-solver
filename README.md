@@ -9,6 +9,9 @@ Type the QuizID over in the console.
 
 Press enter and voilà.
 
+NOTE:
+This only works if the quiz is public.
+
 ## Installation
 `pip install -r requirements.txt`
 
