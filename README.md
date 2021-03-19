@@ -10,7 +10,7 @@ Type the QuizID over in the console.
 Press enter and voilà.
 
 ## Installation
-`pip install -r requirements`
+`pip install -r requirements.txt`
 
 `py main.py`
 
